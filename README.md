@@ -1,5 +1,4 @@
-# CoC_ChicagoLabsMeetUps
-Code of Conduct for Meetups Hosted at Pivotal Labs Chicago
+# Code of Conduct for Meetups Hosted at Pivotal Labs Chicago
 
 Do The Right Thing
 
